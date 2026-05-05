@@ -31,7 +31,7 @@
         Optional placeholders replaced at runtime:
           {device} - Device name
     -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/ProjectInfinity-X/official_devices/16/vanilla/{device}.json</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/viaan-thakur/infi-ota/refs/heads/main/channelogs/gms/sunny.json</string>
 
     <string name="verification_failed_notification">Verification failed</string>
     <string name="verifying_download_notification">Verifying update</string>
